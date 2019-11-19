@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1570228027 source:c:\users\nima\desktop\school\css 342\homework 1\homework1.cpp
+	<iostream>
+
+1570155466 c:\users\nima\desktop\school\css 342\homework 1\test.h
+
+1570228027 source:c:\users\nima\desktop\school\css 342\homework 1\test.cpp
+	<iostream>
+	"myarray.h"
+
+1570155452 c:\users\nima\desktop\school\css 342\homework 1\myarray.h
+
