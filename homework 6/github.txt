@@ -1,0 +1,4 @@
+Github: https://github.com/Nimzerz
+
+Dictionary: https://github.com/Nimzerz/Hw6-Dictionary.git
+Sudoku: https://github.com/Nimzerz/Hw6-Sudoku.git
